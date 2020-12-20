@@ -55,7 +55,7 @@ import Result from './screens/Search/Result'
 import GroupSearch from './screens/Search/GroupSearch'
 import GroupCategory from './screens/GroupTab/GroupCategory'
 import GroupCategories from './screens/GroupTab/GroupCategories'
-import GroupProfile from './screens/GroupTab/Group'
+import GroupProfile from './screens/GroupTab/group'
 import GroupScreen from './screens/GroupTab'
 
 const Tab = createMaterialTopTabNavigator();

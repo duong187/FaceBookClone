@@ -238,29 +238,29 @@
     "users": [
         {
             "id": 1,
-            "name": "Hoàng Vũ",
-            "username": "vucms",
-            "password": "vucms",
+            "name": "Nguyễn Bình Dương",
+            "username": "duongnb",
+            "password": "duongnb",
             "myCoordinates": {
                 "longitude": 108.2262142,
                 "latitude": 16.061222
             },
-            "subName": "vucms",
-            "introTxt": "夢の場所に行ってる。。。",
-            "work_at": "Da Nang",
-            "live_in": "Da Nang",
-            "relationship": "Alone",
-            "learn_at": "Ong Ich Khiem High School",
-            "from": "Da Nang",
+            "subName": "duongnb",
+            "introTxt": "Bài tập lớn Đa Nền Tảng",
+            "work_at": "Ha Noi",
+            "live_in": "Ha Noi",
+            "relationship": "Single",
+            "learn_at": "HUST",
+            "from": "Ha Noi",
             "follower": 55526,
             "links": {
-                "github": "https://github.com/iamvucms",
-                "repl": "https://repl.it/@iamvucms"
+                "github": "https://github.com/duong187",
+                "repl": "https://github.com/duong187"
             },
             "birthday": {
-                "day": 2,
-                "month": 2,
-                "year": 2000
+                "day": 18,
+                "month": 7,
+                "year": 1999
             },
             "friends": [
                 {
@@ -315,8 +315,8 @@
                     "pageId": 3
                 }
             ],
-            "cover_url": "https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528__340.jpg",
-            "avatar_url": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/p720x720/86370478_619895375244123_7254001103526690816_o.jpg?_nc_cat=111&_nc_sid=85a577&_nc_eui2=AeHUZrRLoQykjTFqt7gs5L9lh09Rz8nyoZsSI_2eLwXRugMlgYrJH0Qqu8DK5WTvrjWLpY_zrc3NLHmA8Dna0XX4BUHlvYNAbmXP28w0B48LXg&_nc_oc=AQm8_ZGccvvCMu4FMBStgtxlUwzkj91GIoB7VAE4PrVO3DwnOCvZBfaOo-jliFWmZFbOj3xyVeXgGAeLbgJ0xRAP&_nc_pt=1&_nc_ht=scontent-sin6-1.xx&_nc_tp=6&oh=3b517b78285307fb143f674b0ef4de4c&oe=5E9E84E0"
+            "cover_url": "https://i.pinimg.com/originals/87/71/7a/87717a0d118ae40f75467b8fbb452e04.jpg",
+            "avatar_url": "https://i.pinimg.com/originals/1f/fe/ae/1ffeae5a14d7b6ecf127ba60050f8418.jpg"
         },
         {
             "id": 2,

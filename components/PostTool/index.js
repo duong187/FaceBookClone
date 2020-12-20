@@ -43,7 +43,7 @@ class index extends Component {
                     </TouchableOpacity>
                     <TouchableOpacity onPress={isWriteToAnyOne ? this.onPressPostToAnyOneHandler.bind(this) : this.onFullPostToolPressHandler} style={styles.postInputWrapper}>
                         <View style={{ ...styles.postInput, backgroundColor: this.state.inputBgColor }}>
-                            <Text>{isWriteToAnyOne || isWriteToPage ? `Write somethings to ${userX?.name || page?.name}` : 'What are you thinking ?'}</Text>
+                            <Text>{isWriteToAnyOne || isWriteToPage ? 'Write somethings to ${userX?.name || page?.name}' : 'What are you thinking ?'}</Text>
                         </View>
                     </TouchableOpacity>
                 </View>
